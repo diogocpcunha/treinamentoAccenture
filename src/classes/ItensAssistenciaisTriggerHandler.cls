@@ -5,6 +5,7 @@ public class gitTriggerHandller {
         
 	lakdjlasjd coco	System.debug('Lista de git itens: kxdjfhnskdufhksjdf' + listNewItem);
 	    listNewItem);
+		listNewItem);
        
     }
  
